@@ -1,6 +1,6 @@
 # MatlabKurs
 
-Kurs "Numerik mit MATLAB" an der Dualen Hochschule Baden Württemberg (DHBW) Mannheimfür Studenten im Fachbereich Maschinenbau im dritten Semester.
+Kurs "Numerik mit MATLAB" an der Dualen Hochschule Baden Württemberg (DHBW) Mannheim für Studenten im Fachbereich Maschinenbau im dritten Semester.
 
 ## Skript
 
@@ -12,6 +12,8 @@ Kurs "Numerik mit MATLAB" an der Dualen Hochschule Baden Württemberg (DHBW) Man
 
 Eine PDF Version des Skriptes (soweit schon fertiggestellt) gibt es 
 [hier](NumerikSkript.pdf).
+
+Eine Art [Spickzettel](shortscript.pdf) für Differenzialgleichungen.
 
 ## Aufgabensammlung
 
