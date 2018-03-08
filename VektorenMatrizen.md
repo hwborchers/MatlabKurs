@@ -2,6 +2,7 @@
 Hans W Borchers<br>DHBW Mannheim<br>Fakultät für Maschinenbau  
 Skript zum Kurs, WS 2016  
 <hr>
+
 # Numerische Lineare Algebra
 
 Vektoren und Matritzen sind die grundlegenden Bausteine der Linearen Algebra ebenso wie der Numerik. Beim Lösen numerischer Probleme in der Analysis spielen sie eine wichtige Rolle. Das Aufstellen von langen Vektoren und großen Matrizen (auch spezieller Bauart) ist in Matlab leicht möglich.
